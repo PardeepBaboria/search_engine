@@ -22,7 +22,7 @@ wiki=WikipediaQueryRun(api_wrapper=api_wrapper)
 
 search=DuckDuckGoSearchRun(name="Search")
 
-st.title("🔎 LangChain - Chat with search")
+st.title("Search engine using LLM")
 
 ## Sidebar for settings
 st.sidebar.title("Settings")
