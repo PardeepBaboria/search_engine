@@ -6,4 +6,5 @@ emoji: 🌍
 colorFrom: indigo
 colorTo: indigo
 short_description: Search engine ussing llm.
+sdk_version: 1.44.1
 ---
